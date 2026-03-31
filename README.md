@@ -177,6 +177,7 @@ python evaluation/child_asso/eval_swow_rsa.py --model MODEL_NAME
 
 以下数据需自行下载：
 
+- **CHILD-ACQ**
   - Wordbank: https://wordbank.stanford.edu/data/  
   - AoA 数据 Liu et al. (2011) : https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016505 
 
