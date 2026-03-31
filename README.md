@@ -56,7 +56,7 @@ Each folder corresponds to one task, with a mirrored structure between `data/` a
 
 ---
 
-## 🧪 Tasks
+## Tasks
 
 ChineseDevBench includes **8 tasks**, divided into child-oriented and adult-oriented groups.
 
@@ -94,7 +94,7 @@ Please refer to each task folder for task-specific arguments.
 
 We provide a trained **Child-GPT2 model**:
 
-👉 Download here: kaggle.com/models/evawu001/child-gpt2-model
+👉 Download here: https://huggingface.co/Eva1s/Child-GPT2_model
 
 ---
 
@@ -133,7 +133,7 @@ If you use ChineseDevBench or its data in your research, please cite:
 
 ---
 
-# 中文版
+# 📦 中文版
 
 ## 项目简介
 
@@ -174,7 +174,7 @@ python evaluation/child_asso/eval_swow_rsa.py --model MODEL_NAME
 
 我们提供训练好的 **Child-GPT2 模型**：
 
-👉 下载方式: kaggle.com/models/evawu001/child-gpt2-model
+👉 下载方式: https://huggingface.co/Eva1s/Child-GPT2_model
 
 ---
 
