@@ -119,6 +119,8 @@ Instructions for downloading and preprocessing are provided in relevant task fol
 
 ## 📖 Citation
 
+If you use ChineseDevBench or its data in your research, please cite:
+
 ```bibtex
 @article{,
   title={},
