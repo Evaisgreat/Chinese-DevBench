@@ -122,12 +122,12 @@ Instructions for downloading and preprocessing are provided in relevant task fol
 If you use ChineseDevBench or its data in your research, please cite:
 
 ```bibtex
-@misc{,
+@article{,
   title={},
   author={Your Name and Co-authors},
-  year={2026}
+  year={2026},
+  journal={arXiv preprint arXiv:XXXX.XXXXX}
 }
-```
 
 
 
